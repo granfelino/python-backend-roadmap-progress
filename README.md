@@ -8,7 +8,7 @@ on how I am managing my progress on becoming a Python backend developer :)
 * `roadmap.md` is the roadmap I am following to learn and progress
 
 ## DISCLAIMER:
-**NO CODE FOR MY PROJECTS WAS GENERATED USING AI.**
+### **NO CODE FOR MY PROJECTS WAS GENERATED USING AI.**
 
 I used AI to create a roadmap and specific project requirements for me. All the
 code that my repositories contain is written by me.
