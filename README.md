@@ -13,6 +13,11 @@ on how I am managing my progress on becoming a Python backend developer :)
 I used AI to create a roadmap and specific project requirements for me. All the
 code that my repositories contain is written by me.
 
-## Current project no.: 4
+## Current project: no. 4 - [CLI finance tracker](https://github.com/granfelino/fintrack)
+
+## Projects done:
+* ✅ 1.  [Simple calculator app](https://github.com/granfelino/simple-cli-calculator)
+* ✅ 2.  [File sorting app](https://github.com/granfelino/filesort)
+* ✅ 3.  [Contact manager](https://github.com/granfelino/conmgr)
 
 :)
