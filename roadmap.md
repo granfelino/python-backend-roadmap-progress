@@ -117,6 +117,20 @@
 
 ---
 
+### **Extra week - Dedicated SQL Mastery Block**
+**Extra SQL topics to master:**
+
+* JOINs of all types
+* Window functions
+* Query optimization basics
+* Index design
+* Transactions & isolation
+* Writing raw SQL + reading query plans (EXPLAIN)
+
+**Find a project for it**
+
+---
+
 ## 💛 **Month 3 — Intermediate Backend Development**
 
 ### **Week 9 – Authentication & Authorization**
@@ -222,6 +236,19 @@
 
 **Project:**
 🔹 Refactor Blog API with repository pattern & clear folder structure.
+
+---
+
+System Design Basics After Month 4
+
+**Not big-company system design — just junior-level practical architecture:**
+
+* REST API design
+* Idempotency
+* Pagination design choices
+* Rate limiting approaches
+* Designing a background processing pipeline
+* How to structure microservices
 
 ---
 
@@ -336,6 +363,28 @@
 * Add CI/CD, logging, monitoring.
 * Document the API + write a full README.
 * Optional: publish a short technical write-up.
+
+---
+**✅ Cloud basics (AWS ideally)**
+
+**If you add:**
+
+* S3
+* EC2
+* IAM basics
+* RDS
+* CloudWatch
+
+---
+
+### **Week 25 - “resume & interview polish” week**
+
+**Your roadmap is skill-focused, but landing the job needs:**
+
+* Clean GitHub repos with good READMEs
+* A professional CV tailored for backend
+* A strong LinkedIn profile
+* 15–20 solved coding tasks (Python, SQL)
 
 ---
 
