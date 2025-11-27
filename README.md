@@ -21,5 +21,6 @@ code that my repositories contain is written by me.
 * ✅ 3.  [Contact manager](https://github.com/granfelino/conmgr)
 * ✅ 4.  [Finance tracker](https://github.com/granfelino/fintrack)
 * ✅ \_.  [Decorator excercises](https://github.com/granfelino/decorator-excercises)
+* ✅ \_.  [Bare-bones HTTP server](https://github.com/granfelino/bare-bones-http)
 
 :)
