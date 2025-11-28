@@ -1,3 +1,6 @@
+### Link: https://github.com/granfelino/bare-bones-http
+
+### Reflections:
 * HTTP is a protocol
 * this protocol, up to version 1.1 (HTTP/1.1) is/was text based, human readable
 * it is based on request and responses

@@ -1,3 +1,6 @@
+### Link: https://github.com/granfelino/decorator-excercises
+
+### Reflections:
 * decorators are functions which replace the original function, keeping its
     original functionality and adding some functionality on the top
 * A decorator:

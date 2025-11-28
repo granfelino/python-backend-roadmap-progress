@@ -1,5 +1,5 @@
-# Link: https://github.com/granfelino/conmgr
-# Points of reflection:
+### Link: https://github.com/granfelino/conmgr
+### Reflections:
 * Could create dictionaries with mappings phone : contact and email : contact for o(1) lookup,
     but I had a chance to use generators with next() which is a really nice pattern to know
 * still not good at tdd as it's getting tedious really fast, whih is an indicator i am doing it wrong.

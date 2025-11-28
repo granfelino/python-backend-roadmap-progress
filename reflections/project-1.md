@@ -1,5 +1,5 @@
-# Link: https://github.com/granfelino/simple-cli-calculator
-# Did:
+### Link: https://github.com/granfelino/simple-cli-calculator
+### Did:
 * a simple calculator app
 * used the argparse module for arguments
 * wrote docstrings for all the functions and modules

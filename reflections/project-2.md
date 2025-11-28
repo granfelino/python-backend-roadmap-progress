@@ -1,5 +1,5 @@
-# Link: https://github.com/granfelino/filesort
-# Did:
+### Link: https://github.com/granfelino/filesort
+### Did:
 * a program using TDD for the first time
 * used pathlib extensively
 * learned how to manage paths
